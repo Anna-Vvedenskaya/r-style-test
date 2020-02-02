@@ -1,0 +1,5 @@
+.schedule.table thead tr th,
+.schedule.table tbody tr td,
+.schedule.table tbody tr th {
+  text-align: right;
+}

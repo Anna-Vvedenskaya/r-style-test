@@ -1,0 +1,24 @@
+.credit-form {
+  text-align: left;
+  padding: 1rem;
+  width: 700px;
+}
+.credit-form-container__not-initialized {
+  pointer-events: none;
+  filter: opacity(0.5);
+}
+/*.credit-form .credit-form__row  {*/
+/*  padding: 0.3rem 0;*/
+/*}*/
+/*.credit-form .credit-form__row label  {*/
+/*  display: flex;*/
+/*}*/
+/*.credit-form label span {*/
+/*  flex: 1 1 auto;*/
+/*  !*padding-left: 2rem;*!*/
+/*  !*left: 200px;*!*/
+/*}*/
+/*.credit-form label input {*/
+/*  flex: 0 0 200px;*/
+/*}*/
+
